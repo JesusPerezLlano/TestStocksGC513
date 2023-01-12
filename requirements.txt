@@ -6,3 +6,4 @@ streamlit
 datetime
 fastquant
 investpy
+pandas_ta

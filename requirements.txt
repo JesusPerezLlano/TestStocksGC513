@@ -5,3 +5,4 @@ yfinance
 streamlit
 datetime
 fastquant
+investpy

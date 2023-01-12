@@ -7,3 +7,4 @@ datetime
 fastquant
 investpy
 pandas_ta
+openpyxl

@@ -8,3 +8,4 @@ fastquant
 investpy
 pandas_ta
 openpyxl
+yahoo_fin

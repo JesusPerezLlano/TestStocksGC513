@@ -4,3 +4,8 @@ numpy
 yfinance
 streamlit
 datetime
+fastquant
+investpy
+pandas_ta
+openpyxl
+yahoo_fin
